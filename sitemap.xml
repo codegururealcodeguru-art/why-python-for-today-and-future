@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
   <url>
     <loc>https://codegururealcodeguru-art.github.io/why-python-for-today-and-future/</loc>
-    <lastmod>2026-01-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
 
+    <video:video>
+      <video:thumbnail_loc>
+        https://img.youtube.com/vi/t2Kg5x3ixIU/maxresdefault.jpg
+      </video:thumbnail_loc>
+
+      <video:title>
+        Why Python for Today and the Future
+      </video:title>
+
+      <video:description>
+        Discover why Python is the most important programming language today and how it will shape the future of technology, AI, automation, and software development.
+      </video:description>
+
+      <video:content_loc>
+        https://www.youtube.com/watch?v=t2Kg5x3ixIU
+      </video:content_loc>
+
+      <video:player_loc allow_embed="yes">
+        https://www.youtube.com/embed/t2Kg5x3ixIU
+      </video:player_loc>
+
+      <video:duration>600</video:duration>
+      <video:publication_date>2026-01-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+
+  </url>
 </urlset>
